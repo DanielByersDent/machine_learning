@@ -1,1 +1,1 @@
-# machine_learning
+This is a collection of machine learning projects that I working on. I will launching a open source project soon if anyone is wants to help feel free to put request pulls on the library "holly" when it is public. 
