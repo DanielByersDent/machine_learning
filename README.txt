@@ -1,1 +1,0 @@
-This is an off-platform training model that uses Naive Bayes Classifier to predict whether a sentence came from New York, London, or Paris based on a classification algorithm. 
